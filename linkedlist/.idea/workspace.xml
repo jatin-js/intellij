@@ -1,15 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8e4b3f2-6da0-4806-bd99-9e13f929466d" name="Default Changelist" comment="" />
+    <list default="true" id="f8e4b3f2-6da0-4806-bd99-9e13f929466d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/src/queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudoku/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sudoku/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Column.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Column.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Mat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Mat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Row.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Row.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Sudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Sudoku.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1Z59uUsAknsECA5bN6J9M9PYZeK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList" />
+      <module name="linkedlist" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkedList" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -23,5 +86,23 @@
       <updated>1584118310225</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1584122756296">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1584122756296" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1584122756295">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1584122756295" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1584122756295">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1584122756295" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1584122756296">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1584122756296" />
   </component>
 </project>
