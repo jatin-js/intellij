@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d261d8d1-a95d-497d-a776-053f06fd388d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudoku/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sudoku/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Column.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Column.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Mat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Mat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Row.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Row.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Sudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sudoku/out/production/sudoku/com/company/Sudoku.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z54ZGOZfUymzf6pG0gmCeaRkpP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue" />
+      <module name="queue" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Queue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d261d8d1-a95d-497d-a776-053f06fd388d" name="Default Changelist" comment="" />
+      <created>1584115674808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584115674808</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="86" key="#Project_Structure" timestamp="1584115750405">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state x="320" y="86" key="#Project_Structure/0.23.1440.796@0.23.1440.796" timestamp="1584115750405" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1584117551831">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.796@0.23.1440.796" timestamp="1584117183506" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1584117551831" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1584117551830">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.796@0.23.1440.796" timestamp="1584117183506" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1584117551830" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1584117551830">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.796@0.23.1440.796" timestamp="1584117183505" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1584117551830" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1584117551831">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.796@0.23.1440.796" timestamp="1584117183506" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1584117551831" />
+    <state x="97" y="43" key="new project wizard" timestamp="1584117547023">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="97" y="43" key="new project wizard/0.23.1440.800@0.23.1440.800" timestamp="1584117547023" />
+  </component>
+</project>
