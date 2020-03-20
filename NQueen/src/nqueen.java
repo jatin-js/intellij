@@ -56,7 +56,7 @@ class NQueen{
              c--;d++;
         }
         else
-         while(d!=8 && mat[c][d]==0){
+         while(d!=8 && mat[c][d] == 0){
              c--;d++;
          }
 
