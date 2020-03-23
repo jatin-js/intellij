@@ -23,6 +23,7 @@ class calculator extends JFrame implements ActionListener {
     // main function
     public static void main(String args[])
     {
+
         // create a frame
         f = new JFrame("calculator");
 
@@ -115,7 +116,7 @@ class calculator extends JFrame implements ActionListener {
 
         // set Background of panel
         p.setBackground(Color.blue);
-
+        f.setBackground(Color.GREEN);
         // add panel to frame
         f.add(p);
 
@@ -146,15 +147,22 @@ class calculator extends JFrame implements ActionListener {
         }
         else if (s.charAt(0) == '=') {
 
-            double te;
+            double te=0;
 
             // store the value in 1st
             if (s1.equals("+"))
                 te = (Double.parseDouble(s0) + Double.parseDouble(s2));
             else if (s1.equals("-"))
                 te = (Double.parseDouble(s0) - Double.parseDouble(s2));
-            else if (s1.equals("/"))
+            else if (s1.equals("/")) {
+//                try {
                 te = (Double.parseDouble(s0) / Double.parseDouble(s2));
+//                System.out.println(te);
+//            }catch (ArithmeticException er){
+//                    System.out.println(er.getMessage());
+//                    l.setText("Arithmetic Exception divide by zero");
+//                }
+            }
             else
                 te = (Double.parseDouble(s0) * Double.parseDouble(s2));
 
@@ -179,8 +187,10 @@ class calculator extends JFrame implements ActionListener {
                     te = (Double.parseDouble(s0) + Double.parseDouble(s2));
                 else if (s1.equals("-"))
                     te = (Double.parseDouble(s0) - Double.parseDouble(s2));
-                else if (s1.equals("/"))
+                else if (s1.equals("/")){
                     te = (Double.parseDouble(s0) / Double.parseDouble(s2));
+
+                }
                 else
                     te = (Double.parseDouble(s0) * Double.parseDouble(s2));
 
