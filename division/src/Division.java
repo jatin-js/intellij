@@ -27,7 +27,7 @@ public class Division extends JFrame implements ActionListener {
 
         t1.setBounds(10,10,100,50);
 //        ta.setBounds(210, 35, 10,10);
-        b.setBounds(210, 20, 30,30);
+        b.setBounds(200, 20, 30,30);
         t2.setBounds(320,10,100,50);
         tb.setBounds(520,35,10,10);
         t3.setBounds(630,10,100,50);
@@ -47,9 +47,20 @@ public class Division extends JFrame implements ActionListener {
 
     public void actionPerformed(ActionEvent e){
         if(t1.getText()=="" || t2.getText()=="")return;
-        float a=Float.parseFloat(t1.getText());
-        float b=Float.parseFloat(t2.getText());
-        t3.setText(Float.toString(a/b));
+
+        try {
+            int a=Integer.parseInt(t1.getText());
+            int b=Integer.parseInt(t2.getText());
+            int c;
+
+            c = a / b;
+            t3.setText(Integer.toString(c));
+        }catch (ArithmeticException A){
+            System.out.println("Arithmetic exception: Divide by zero");
+        }catch (NumberFormatException n){
+            System.out.println("Number format exception: Not an integer");
+        }
+//        System.out.println(c);
     }
 
 }
