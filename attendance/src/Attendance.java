@@ -285,11 +285,10 @@ class FillAttendance{
                     @Override
                     public void itemStateChanged(ItemEvent E) {
                         if(E.getStateChange()==1){
-                            //increase no of present days by one in database
-                            //since I have no database, so i cant write code for updating present days.
+                            //Code for increasing no. of present days in database
                         }
                         else{
-                            //dont update no of present days.
+                            //Not changing no. of present days
                         }
                     }
                 });
@@ -297,11 +296,10 @@ class FillAttendance{
                     @Override
                     public void itemStateChanged(ItemEvent eE) {
                         if(eE.getStateChange()==1){
-                            //increase no of present days by one in database
-                            //since I have no database, so i cant write code for updating present days.
+                            //Code for increasing no. of present days in database
                         }
                         else{
-                            //dont update no of present days.
+                            //Not changing no. of present days
                         }
                     }
                 });
@@ -328,17 +326,8 @@ class ManageLeave {
         f1 = new JTextField(20);
         b2 = new JButton("Grant");
 
-//        b3.setBounds(20, 20, 150, 50);
-//        l1.setBounds(190, 20, 100, 50);
-//
-//        b1.setBounds(20, 90, 150, 50);
-//        l2.setBounds(190, 90, 100, 50);
-//
-//        l3.setBounds(20, 160, 150, 50);
-//        f1.setBounds(190, 160, 100, 50);
-//
-//        b2.setBounds(150, 450, 100, 50);
 
+        
         f.add(b3); f.add(l1);
         f.add(b1); f.add(l2);
         f.add(l3); f.add(f1);
@@ -448,7 +437,7 @@ class StudentFacility implements ActionListener{
         f.setVisible(true);
         f.setSize(400, 600);
         f.setLayout(new GridLayout(8, 1, 5, 5));
-        l = new JLabel("select facility form following options: ");
+        l = new JLabel("select facility from following options: ");
         b1 = new JButton("Manage Account");
         b2 = new JButton("Make Complain");
         b3 = new JButton("Apply for Leave");
@@ -683,7 +672,7 @@ class select implements ActionListener{
 
 /**         Main Section          **/
 
-public class AttendanceSystem{
+public class Attendance{
     public static void main(String[] args) {
         select s1 = new select();
     }
