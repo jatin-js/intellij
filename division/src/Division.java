@@ -20,7 +20,7 @@ public class Division extends JFrame implements ActionListener {
        t2 = new JTextField(16);
         t3 = new JTextField(16);
 //        JTextArea ta = new JTextArea("/");
-        JLabel ta = new JLabel("Divide");
+        JLabel ta = new JLabel();
         ta.setText("/");
         JLabel tb = new JLabel("=");
         b = new JButton("/");
