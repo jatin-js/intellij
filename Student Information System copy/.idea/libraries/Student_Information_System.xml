@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Student Information System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sqlitejdbc-v056.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

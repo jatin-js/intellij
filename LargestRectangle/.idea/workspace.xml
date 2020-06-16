@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c78b95b2-373a-4715-837c-ae2c7d2b7ff8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bek451C3qCndTc4jHbclDaHRrF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.GraphComponent">
+    <configuration name="CastleOnTheGrid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CastleOnTheGrid" />
+      <module name="LargestRectangle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CycleDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CycleDetection" />
+      <module name="LargestRectangle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphComponent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GraphComponent" />
+      <module name="LargestRectangle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsThisBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsThisBST" />
+      <module name="LargestRectangle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SparseArray" />
+      <module name="LargestRectangle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GraphComponent" />
+        <item itemvalue="Application.IsThisBST" />
+        <item itemvalue="Application.CycleDetection" />
+        <item itemvalue="Application.SparseArray" />
+        <item itemvalue="Application.CastleOnTheGrid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c78b95b2-373a-4715-837c-ae2c7d2b7ff8" name="Default Changelist" comment="" />
+      <created>1588999751372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588999751372</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1440" height="211" key="GridCell.Tab.0.bottom" timestamp="1589002622225">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1440" height="211" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1589002622225" />
+    <state width="1440" height="211" key="GridCell.Tab.0.center" timestamp="1589002622225">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1440" height="211" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1589002622225" />
+    <state width="1440" height="211" key="GridCell.Tab.0.left" timestamp="1589002622225">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1440" height="211" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1589002622225" />
+    <state width="1440" height="211" key="GridCell.Tab.0.right" timestamp="1589002622225">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1440" height="211" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1589002622225" />
+  </component>
+</project>
